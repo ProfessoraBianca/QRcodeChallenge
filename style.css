@@ -34,7 +34,7 @@ body {
 .qrCard {
 
     box-sizing: border-box;
-    background-image: url(https://github.com/ProfessoraBianca/QRcodeChallenge/tree/main/images);
+    background-image: url(/images/image-qr-code.png);
     background-size: cover;
     background-position: center;
     border-radius: 10px;
